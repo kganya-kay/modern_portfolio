@@ -71,7 +71,7 @@ export default function Example() {
             </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
-            <dt className="text-sm/6 font-medium text-gray-900">Attachments</dt>
+            <dt className="text-sm/6 font-medium text-gray-900">My CV / Resume:</dt>
             <dd className="mt-2 text-sm text-gray-900 sm:col-span-2 sm:mt-0">
               <ul
                 role="list"

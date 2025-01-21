@@ -30,6 +30,9 @@ const userNavigation = [
   { name: "Contact", href: "#" },
 ];
 
+function classNames(...classes: string[]) {
+  return classes.filter(Boolean).join(" ");
+}
 
 export default async function Home() {
   const hello = await api.post.hello({ text: "from tRPC" });

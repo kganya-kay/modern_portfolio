@@ -13,7 +13,7 @@ export default function Example() {
             <div className="absolute inset-px rounded-lg bg-white lg:rounded-l-[2rem]"></div>
             <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(theme(borderRadius.lg)+1px)] lg:rounded-l-[calc(2rem+1px)]">
               <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
-                <p className="mt-2 text-lg font-medium tracking-tight text-gray-950 max-lg:text-center pb-2 border-b border-gray-300">
+                <p className="mt-2 text-lg font-medium tracking-tight text-gray-950 max-lg:text-center pb-2 border-b border-gray-700">
                   Latest Project
                 </p>
                 <p className="text-sm font-bold text-blue-600">Cloudus</p>
@@ -39,7 +39,7 @@ export default function Example() {
                 </div>
               </div>
 
-              <div className="px-8 sm:px-10 py-3 border-y border-gray-300 mx-3">
+              <div className="px-8 sm:px-10 py-3 border-y border-gray-700 mx-3">
                 <p className="text-blue-500 font-bold text-lg text-center">My Work</p>
                 <p className="text-center text-sm/6 ">
                   I’ve developed innovative web applications that combine
@@ -47,7 +47,7 @@ export default function Example() {
                 </p>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">Tech Care</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   A Front End medical care project, consuming a third party API. Using a charting
@@ -73,7 +73,7 @@ export default function Example() {
 
              
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">ERF350</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                 www.erf350.co.za <br />shared office space for
@@ -99,7 +99,7 @@ export default function Example() {
               </div>
 
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">To Do App</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   To-do Front End App Build With React. 
@@ -121,7 +121,7 @@ export default function Example() {
                   </Link>
                 </div>
               </div>
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">Vintage PortFolio</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Portfolio Website build with Vanilla Javascript, HTML and CSS
@@ -144,7 +144,7 @@ export default function Example() {
                 </div>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">OS Branding</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Landing Page for a branding business.Built with React 
@@ -167,7 +167,7 @@ export default function Example() {
                 </div>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-700">
                 <p className="text-sm font-bold text-blue-500">Tyger Valley</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Shopping Mall Landing Page. Built with Vanilla HTML, Javascript and bootstrap

@@ -100,6 +100,28 @@ export default function Example() {
 
 
               <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+                <p className="text-sm font-bold text-blue-500">To Do App</p>
+                <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
+                  To-do Front End App Build With React. 
+                </p>
+                <div>
+                  <img
+                    className="size-full rounded-lg"
+                    src="/todo.jpeg"
+                    alt=""
+                  />
+                </div>
+                <div className="flex p-2">
+                  <Link
+                    className="w-full bg-gray-800 p-1 text-center font-bold text-white"
+                    href="https://hopeful-poitras-b85490.netlify.app/"
+                    target="_blank"
+                  >
+                    View Project
+                  </Link>
+                </div>
+              </div>
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
                 <p className="text-sm font-bold text-blue-500">Vintage PortFolio</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Portfolio Website build with Vanilla Javascript, HTML and CSS

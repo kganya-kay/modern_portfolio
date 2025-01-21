@@ -47,7 +47,7 @@ export default async function Home() {
             <div className="flex h-16 items-center justify-between">
               <div className="flex items-center">
                 <div className="shrink-0 text-white">
-                 <p>DKK</p>
+                 <img className="rounded-full size-9" src="/logo.PNG" alt="" />
                 </div>
                 <div className="hidden md:block">
                   <div className="ml-10 flex items-baseline space-x-4">

@@ -47,7 +47,7 @@ export default function Example() {
                 </p>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">Tech Care</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   A Front End medical care project, consuming a third party API. Using a charting
@@ -73,7 +73,7 @@ export default function Example() {
 
              
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">ERF350</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                 www.erf350.co.za <br />shared office space for
@@ -99,7 +99,7 @@ export default function Example() {
               </div>
 
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">To Do App</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   To-do Front End App Build With React. 
@@ -121,7 +121,7 @@ export default function Example() {
                   </Link>
                 </div>
               </div>
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">Vintage PortFolio</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Portfolio Website build with Vanilla Javascript, HTML and CSS
@@ -144,7 +144,7 @@ export default function Example() {
                 </div>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">OS Branding</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Landing Page for a branding business.Built with React 
@@ -167,7 +167,7 @@ export default function Example() {
                 </div>
               </div>
 
-              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
+              <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10 border-b border-gray-300">
                 <p className="text-sm font-bold text-blue-500">Tyger Valley</p>
                 <p className="mt-2 max-w-lg text-sm/6 text-gray-600 max-lg:text-center">
                   Shopping Mall Landing Page. Built with Vanilla HTML, Javascript and bootstrap

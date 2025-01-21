@@ -1,4 +1,5 @@
 import { PaperClipIcon } from "@heroicons/react/20/solid";
+import Link from "next/link";
 
 export default function Example() {
   return (
@@ -55,7 +56,7 @@ export default function Example() {
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt className="text-sm/6 font-medium text-gray-900">Github</dt>
-            <dd className="mt-1 text-sm/6 text-gray-700 sm:col-span-2 sm:mt-0">https://github.com/kganya-kay</dd>
+            <dd className="mt-1 text-sm/6 text-blue-700 sm:col-span-2 sm:mt-0"><Link href={'https://github.com/kganya-kay'} target="_blank"> https://github.com/kganya-kay</Link> </dd>
           </div>
           <div className="px-4 py-6 sm:grid sm:grid-cols-3 sm:gap-4 sm:px-0">
             <dt className="text-sm/6 font-medium text-gray-900">Bio</dt>

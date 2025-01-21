@@ -13,7 +13,7 @@ export default function Example() {
             <div className="absolute inset-px rounded-lg bg-white lg:rounded-l-[2rem]"></div>
             <div className="relative flex h-full flex-col overflow-hidden rounded-[calc(theme(borderRadius.lg)+1px)] lg:rounded-l-[calc(2rem+1px)]">
               <div className="px-8 pb-3 pt-8 sm:px-10 sm:pb-0 sm:pt-10">
-                <p className="mt-2 text-lg font-medium tracking-tight text-gray-950 max-lg:text-center">
+                <p className="mt-2 text-lg font-medium tracking-tight text-gray-950 max-lg:text-center pb-2 border-b border-gray-300">
                   Latest Project
                 </p>
                 <p className="text-sm font-bold text-blue-600">Cloudus</p>

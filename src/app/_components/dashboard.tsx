@@ -136,7 +136,7 @@ export default function Example() {
                 <div className="flex p-2">
                   <Link
                     className="w-full bg-gray-800 p-1 text-center font-bold text-white"
-                    href="https://kekanadk.netlify.app/"
+                    href="https://kekanadk1.netlify.app/"
                     target="_blank"
                   >
                     View Project

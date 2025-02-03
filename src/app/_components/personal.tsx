@@ -93,7 +93,7 @@ export default function Example() {
                   </div>
                   <div className="ml-4 shrink-0">
                     <a
-                      href="https://qgl4gv7np8.ufs.sh/f/zFJP5UraSTwKRAfRazgRulTxgBDqtUn38AMbaYkdyVI510rJ"
+                      href="https://qgl4gv7np8.ufs.sh/f/zFJP5UraSTwKJqlO4IP1FRLvqnu30GcH67esQg2pZMiaxShr"
                       className="font-medium text-indigo-600 hover:text-indigo-500"
                       target="_blank"
                     >
